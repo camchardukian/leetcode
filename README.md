@@ -1,1 +1,1 @@
-My solutions for different coding challenges from [LeetCode](https://leetcode.com/).
+My solutions for different DSA problems from [LeetCode](https://leetcode.com/).
